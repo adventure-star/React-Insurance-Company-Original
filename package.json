@@ -1,0 +1,62 @@
+{
+  "name": "poolpo-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@amplitude/react-amplitude": "^1.0.0-beta.4",
+    "@aspnet/signalr": "^1.1.4",
+    "@emotion/core": "^10.0.35",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@microsoft/signalr": "^3.1.8",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "amplitude-js": "4.1.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.2",
+    "cors": "^2.8.5",
+    "flexboxgrid": "^6.3.1",
+    "node-sass": "^4.14.1",
+    "pure-react-carousel": "^1.27.3",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.3.0",
+    "react-credit-cards": "^0.8.3",
+    "react-dom": "^16.13.1",
+    "react-elastic-carousel": "0.8.1",
+    "react-number-format": "^4.5.5",
+    "react-responsive-carousel": "^3.2.9",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.0",
+    "react-slick": "^0.27.10",
+    "react-star-ratings": "^2.3.0",
+    "react-swiping-carousel": "^1.0.5-pre3",
+    "react-text-mask": "^5.4.3",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.1.1"
+  },
+  "scripts": {
+    "start": "SET REACT_APP_MODE=development&&react-scripts start",
+    "product": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

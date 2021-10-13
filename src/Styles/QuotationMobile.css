@@ -1,0 +1,28 @@
+._1Vti3 {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none; 
+}
+  ._1Vti3 ._3SSHY {
+    margin-right: 20px;
+    margin-left: 20px;
+    /* margin-left: calc(100% - 297px); */
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none; }
+    ._1Vti3 ._3SSHY:last-child {
+      margin: 0; }
+  ._1Vti3 div {
+    margin: 0px 0px !important;
+  }
+  
+  .selected{
+
+  }
